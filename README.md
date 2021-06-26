@@ -21,6 +21,6 @@
           
 ### Predictive Analytics using Python
 #### Code review
-https://github.com/Goodsma?tab=repositories
+https://github.com/Goodsma/Code_review-Predictive_Analytics_using_Python/tree/main
 #### Paper review
 https://github.com/Goodsma/Paper_review-Predictive_Analytics_using_Python
