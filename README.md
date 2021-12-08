@@ -31,5 +31,8 @@ https://github.com/Goodsma/Paper_review-Predictive_Analytics_using_Python
 ### HAN_univ
 https://github.com/Goodsma/HAN_Univ
 
+---------
+#### Game data analysis(League of Legends)
+https://github.com/Goodsma/Goodsma/blob/main/LOL_data_analysis.ipynb
 <br>
 <br>
